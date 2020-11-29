@@ -1,4 +1,7 @@
 # bloodbank
 Blood_Bank 
 
-Blood bank for receptionist in a hospital that will have a count of blood packets available in hospital.
+Website for Receptionist working in a Blood Bank to keep count of Blood Packets available in their hospital. 
+
+
+Also see screen shots of blood bank attached with folder name(SS_BLOODBANK). 
