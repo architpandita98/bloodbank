@@ -1,6 +1,4 @@
 # bloodbank
-Blood_Bank 
-
 Website for Receptionist working in a Blood Bank to keep count of Blood Packets available in their hospital. 
 
 
